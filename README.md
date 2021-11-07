@@ -6,7 +6,7 @@ Attempt to get this code completed within 2 hours. Remember, this is just a quiz
 
 Make your first commit as soon as you start and push as follows:
 
-* Change the text on this line in this file to your name. (Your Name Here).
+* Change the text on this line in this file to your name. (Keerthi).
 * Make a commit, call it "First Commit".
 * Push it to your repo.
 

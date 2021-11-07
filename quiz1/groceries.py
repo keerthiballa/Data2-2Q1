@@ -13,6 +13,6 @@ def checkout(cash: float, list: dict) -> float:
 #..
 #----------------------------------------------------------------------
 #Ran 2 tests in 0.000s
-#
+
 #OK
 #(venv) (base) ballakeerthi@zipcodes-MacBook-Pro-3 Data2-2Q1 %

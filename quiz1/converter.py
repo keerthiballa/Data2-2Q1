@@ -6,7 +6,7 @@ def meters_to_feet(meters: float) -> float:
     :param meters: A float representing a measurement in meters.
     :return: A float representing the input measurement converted to feet.
     """
-    pass  # implement me
+    return round(meters*3.28084,2)
 
 
 def feet_to_meters(feet: float) -> float:
@@ -17,4 +17,15 @@ def feet_to_meters(feet: float) -> float:
     :param feet: A float representing a measurement in feet.
     :return: A float representing the input measurement converted to meters.
     """
-    pass  # implement me
+    return round(feet/3.28084,2)
+
+
+
+#(venv) (base) ballakeerthi@zipcodes-MacBook-Pro-3 Data2-2Q1 % python3 -m unittest quiz1.test_converter
+#..
+#----------------------------------------------------------------------
+#Ran 2 tests in 0.000s
+
+#OK
+#(venv) (base) ballakeerthi@zipcodes-MacBook-Pro-3 Data2-2Q1 %
+#
